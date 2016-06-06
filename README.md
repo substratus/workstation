@@ -15,7 +15,7 @@ Makes a Docker environment easy again, by providing, out of the box:
 
 ## Is this production ready?
 
-Yes.
+No.
 
 ## TODO
 
