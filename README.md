@@ -17,11 +17,12 @@ Makes a Docker environment easy again, by providing, out of the box:
 
 ### Development, CI, feature-branch demo
 
-|   | Foo | Bar |
-|---|-----|-----|
-| 1 | ... | ... |
-| 2 | ... | ... |
-| 3 | ... | ... |
+|   | Development | CI | Feature-Branch Demo | Production |
+|---|-------------|----|---------------------|------------|
+| setup | monitor.yml | monitor.yml | monitor.yml | CloudFormation |
+| fluentd | monitor.yml | monitor.yml | monitor.yml | Separate container on each CoreOS node. |
+| elasticsearch | monitor.yml | monitor.yml | monitor.yml | Separate container on each CoreOS node. |
+| nginx | monitor.yml | monitor.yml | ELB | ELB |
 
 ### Production
 
