@@ -18,7 +18,7 @@ Makes a Docker environment easy again, by providing, out of the box:
 ### Development, CI, feature-branch demo
 
 | | Foo | Bar |
----------------
+|-|-----|-----|
 | 1 | ... | ... |
 | 2 | ... | ... |
 | 3 | ... | ... |
