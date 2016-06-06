@@ -22,7 +22,7 @@ Makes a Docker environment easy again, by providing, out of the box:
 | setup | monitor.yml | monitor.yml | monitor.yml | CloudFormation |
 | fluentd | monitor.yml | monitor.yml | monitor.yml | Separate container on each CoreOS node. |
 | elasticsearch | monitor.yml | monitor.yml | monitor.yml | Separate container on each CoreOS node. |
-| nginx | monitor.yml | monitor.yml | ELB | ELB |
+| nginx | monitor.yml | monitor.yml | Use ELB instead | Use ELB instead |
 
 ### Production
 
