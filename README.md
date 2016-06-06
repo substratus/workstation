@@ -17,10 +17,11 @@ Makes a Docker environment easy again, by providing, out of the box:
 
 ### Development, CI, feature-branch demo
 
-||  || **Bar** || **Baz** ||
-|| 1 || .. || .. ||
-|| 2 || .. || .. ||
-|| 3 || .. || .. ||
+| | Foo | Bar |
+---------------
+| 1 | ... | ... |
+| 2 | ... | ... |
+| 3 | ... | ... |
 
 ### Production
 
