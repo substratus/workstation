@@ -24,8 +24,6 @@ Makes a Docker environment easy again, by providing, out of the box:
 | elasticsearch | monitor.yml | monitor.yml | monitor.yml | Separate container on each CoreOS node. |
 | nginx | monitor.yml | monitor.yml | Use ELB instead | Use ELB instead |
 
-### Production
-
 ## Is this production ready?
 
 No.
