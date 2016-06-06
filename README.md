@@ -13,6 +13,17 @@ Makes a Docker environment easy again, by providing, out of the box:
   * Feature-branch demos
   * Production environments
 
+## Layout
+
+### Development, CI, feature-branch demo
+
+||  || **Bar** || **Baz** ||
+|| 1 || .. || .. ||
+|| 2 || .. || .. ||
+|| 3 || .. || .. ||
+
+### Production
+
 ## Is this production ready?
 
 No.
