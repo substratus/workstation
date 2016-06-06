@@ -17,7 +17,7 @@ Makes a Docker environment easy again, by providing, out of the box:
 
 ### Development, CI, feature-branch demo
 
-|   | Development | CI | Feature-Branch Demo | Production |
+|   | Development | CI | Feature Demo | Production |
 |---|-------------|----|---------------------|------------|
 | Initialize via | monitor.yml | monitor.yml | monitor.yml | CloudFormation |
 | fluentd | monitor.yml | monitor.yml | monitor.yml | Separate container on each CoreOS node. |
